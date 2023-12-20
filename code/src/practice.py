@@ -1,3 +1,2 @@
 practice1
 practice2
-practice3
